@@ -1,0 +1,19 @@
+"patient_id","visit_id","S_Date_Suivi","S_Comorbidite_1A4","S_Comorbidite_Epilepsie","S_Comorbidite_3C22","S_Comorbidite_3C8","S_Comorbidite_3D11","S_Comorbidite_3E6","S_Comorbidite_3K5","S_Comorbidite_3K9","S_Comorbidite_3L3","S_Comorbidite_3M","S_Comorbidite_E78","S_Comorbidite_F17","S_Comorbidite_K","S_Diagnostic_Principal","S_Diagnostic_Secondaire","S_Diagnostic_Tertiaire","S_Diagnostic_Stade","S_Diagnostic_Syndromique","S_MMS","S_Moca","S_Exa_UPDRS"
+"81e0f140-8229-4542-86c4-63f850dc6886","v1","01/02/2018",1,0,0,1,0,0,1,0,0,0,0,0,0,"3A17b",,,"Demence","Cogn.dysexe ou comp dominant",0,12,0
+"e0c855db-f49b-4eea-bc76-a58f34e2f3c9","v2","01/02/2018",0,0,0,0,1,1,0,0,0,0,1,1,0,"3A12b*",,,"Demence","Amnesique",11,22,0
+"2f5e43a9-8ca2-414a-a483-4f4ac3072e2b","v3","01/02/2018",0,0,0,0,0,0,0,0,1,0,0,0,0,"3A12b*",,,"Demence","Amnesique",21,15,0
+"8ddd0390-e0b7-44a6-a889-d939f617e90e","v4","01/02/2018",1,0,0,1,0,0,0,0,0,0,1,1,0,"3A12b*",,,"Demence","Langage",11,13,0
+"33e82038-0dbf-4c8a-bb98-f7b30d757af9","v5","01/02/2018",0,0,0,0,0,0,0,1,0,0,0,0,0,"3A12b*1J4","CAA",,"Demence","Presentation diffuse",13,16,0
+"7915fc32-3bb4-453e-9a07-913c7da521fe","v6","01/02/2018",0,0,0,1,0,0,0,1,0,0,1,0,0,"3A12b 1J4","1J4",,"Demence","Amnesique",21,19,0
+"8134868d-c7d0-4e01-9415-3f0085890bf9","v7","01/02/2018",1,0,0,0,0,1,1,0,0,1,1,0,0,"3A12b*",,,"Demence","Cogn.dysexe ou comp dominant",11,24,0
+"47ebbd9e-94c2-4678-ac56-ba35c5fe2a50","v8","01/01/2018",1,0,0,0,1,0,0,0,1,0,1,0,0,"3A12b*1J4","1J4",,"Demence","Amnesique",,20,0
+"676b20fe-bb3b-427a-9972-a638b2bf52b8","v9","01/01/2018",0,0,0,1,0,1,0,0,0,0,1,0,0,"3A12b",,,"Demence","Presentation diffuse",13,21,0
+"81e0f140-8229-4542-86c4-63f850dc6886","v10","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"e0c855db-f49b-4eea-bc76-a58f34e2f3c9","v11","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"2f5e43a9-8ca2-414a-a483-4f4ac3072e2b","v12","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"8ddd0390-e0b7-44a6-a889-d939f617e90e","v13","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"33e82038-0dbf-4c8a-bb98-f7b30d757af9","v14","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"7915fc32-3bb4-453e-9a07-913c7da521fe","v15","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"8134868d-c7d0-4e01-9415-3f0085890bf9","v16","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"47ebbd9e-94c2-4678-ac56-ba35c5fe2a50","v17","01/03/2018",,,,,,,,,,,,,,,,,,,,,
+"676b20fe-bb3b-427a-9972-a638b2bf52b8","v18","01/03/2018",,,,,,,,,,,,,,,,,,,,,
