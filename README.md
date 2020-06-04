@@ -1,4 +1,4 @@
-In this repo we store some mock data with information about patients and their visits in a hospital. This data is used in the Data Factory User Guide.
+In this repo we store some mock data with information about patients and their visits in a hospital. This data is used in the [Data Factory User Guide](https://mip.ebrains.eu/documentation/User%20Manuals/6).
 ## EHR_Exams1.csv
 Clinical data containing measurements and diagnosis variables.
 ## EHR_Patient_Family_history.csv
